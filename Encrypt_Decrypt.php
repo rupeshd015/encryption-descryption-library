@@ -7,8 +7,8 @@ class Encrypt_Decrypt{
 	
 	protected $ciphering 		= 	"AES-128-CTR";
 	protected $options 			= 	0;
-	protected $iv 				= 	'1234567891098765';
-	protected $key 				= 	"elxerit";
+	protected $iv 				= 	'1234509876567891';
+	protected $key 				= 	"test-for-you";
 
 
 	public function encryption($password){
